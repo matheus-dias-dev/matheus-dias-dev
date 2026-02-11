@@ -43,5 +43,5 @@
 
 [![Instagram](https://img.shields.io/badge/-{Nome}-purple?style=flat-square&logo=Instagram&logoColor=white&link={Link})]({Link})
 [![Facebook](https://img.shields.io/badge/-{Nome}-blue?style=flat-square&logo=Facebook&logoColor=white&link={Link})]({Link})
-[[![Twitter Follow](https://img.shields.io/twitter/follow/SeuUsuario?style=social)]({Link}](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-dias-b2a56b207))
+[[![linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-dias-b2a56b207)]({[Link](https://www.linkedin.com/in/matheus-dias-b2a56b207/)}])
 
